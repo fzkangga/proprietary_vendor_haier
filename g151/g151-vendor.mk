@@ -54,12 +54,9 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/haier/g151/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/haier/g151/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
-    vendor/haier/g151/proprietary/lib/hw/lights.msm8909.so:system/lib/hw/lights.msm8909.so \
-    vendor/haier/g151/proprietary/lib/hw/sensors.msm8909.so:system/lib/hw/sensors.msm8909.so \
     vendor/haier/g151/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/haier/g151/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/haier/g151/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
-    vendor/haier/g151/proprietary/vendor/etc/calmodule.cfg:system/vendor/etc/calmodule.cfg \
     vendor/haier/g151/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/haier/g151/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/haier/g151/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
@@ -124,7 +121,6 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/haier/g151/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/haier/g151/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
-    vendor/haier/g151/proprietary/vendor/lib/libcalmodule_common.so:system/vendor/lib/libcalmodule_common.so \
     vendor/haier/g151/proprietary/vendor/lib/libcalmodule_gyroscope.so:system/vendor/lib/libcalmodule_gyroscope.so \
     vendor/haier/g151/proprietary/vendor/lib/libchromatix_ov5670_30010a3_snapshot.so:system/vendor/lib/libchromatix_ov5670_30010a3_snapshot.so \
     vendor/haier/g151/proprietary/vendor/lib/libchromatix_imx134_hfr_60.so:system/vendor/lib/libchromatix_imx134_hfr_60.so \
