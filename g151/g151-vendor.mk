@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/haier/g151/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/haier/g151/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
+    vendor/haier/g151/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/haier/g151/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/haier/g151/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/haier/g151/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
