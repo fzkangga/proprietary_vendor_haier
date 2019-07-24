@@ -54,7 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/haier/g151/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/haier/g151/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
-    vendor/haier/g151/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/haier/g151/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/haier/g151/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/haier/g151/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
