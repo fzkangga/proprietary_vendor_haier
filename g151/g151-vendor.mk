@@ -54,6 +54,7 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/haier/g151/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/haier/g151/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
+    vendor/haier/g151/proprietary/lib/libOmxSwVencMpeg4.so:system/lib/libOmxSwVencMpeg4.so \
     vendor/haier/g151/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/haier/g151/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/haier/g151/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
@@ -487,6 +488,8 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
     vendor/haier/g151/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/haier/g151/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
+    vendor/haier/g151/proprietary/vendor/lib/libOmxIttiamVdec.so:system/vendor/lib/libOmxIttiamVdec.so \
+    vendor/haier/g151/proprietary/vendor/lib/libOmxMux.so:system/vendor/lib/libOmxMux.so \
     vendor/haier/g151/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/haier/g151/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
     vendor/haier/g151/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
