@@ -377,7 +377,7 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
     vendor/haier/g151/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/haier/g151/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
-    vendor/haier/g151/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
+    vendor/haier/g151/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/haier/g151/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/haier/g151/proprietary/vendor/lib/libimscamera_jni.so:system/vendor/lib/libimscamera_jni.so \
     vendor/haier/g151/proprietary/vendor/lib/lib-imsdpl.so:system/vendor/lib/lib-imsdpl.so \
@@ -402,6 +402,7 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/haier/g151/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/haier/g151/proprietary/vendor/lib/libmm-als.so:system/vendor/lib/libmm-als.so \
+    vendor/haier/g151/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
     vendor/haier/g151/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
     vendor/haier/g151/proprietary/vendor/lib/libmmcamera2_frame_algorithm.so:system/vendor/lib/libmmcamera2_frame_algorithm.so \
     vendor/haier/g151/proprietary/vendor/lib/libmmcamera2_iface_modules.so:system/vendor/lib/libmmcamera2_iface_modules.so \
