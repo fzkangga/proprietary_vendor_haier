@@ -120,7 +120,6 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/haier/g151/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/haier/g151/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
-    vendor/haier/g151/proprietary/vendor/lib/libcalmodule_gyroscope.so:system/vendor/lib/libcalmodule_gyroscope.so \
     vendor/haier/g151/proprietary/vendor/lib/libchromatix_ov5670_30010a3_snapshot.so:system/vendor/lib/libchromatix_ov5670_30010a3_snapshot.so \
     vendor/haier/g151/proprietary/vendor/lib/libchromatix_imx134_hfr_60.so:system/vendor/lib/libchromatix_imx134_hfr_60.so \
     vendor/haier/g151/proprietary/vendor/lib/libchromatix_imx214_hfr_120fps.so:system/vendor/lib/libchromatix_imx214_hfr_120fps.so \
