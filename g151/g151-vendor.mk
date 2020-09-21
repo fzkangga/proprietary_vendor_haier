@@ -27,6 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/haier/g151/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/haier/g151/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/haier/g151/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/haier/g151/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/haier/g151/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/haier/g151/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
@@ -501,6 +502,7 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/haier/g151/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/haier/g151/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
+    vendor/haier/g151/proprietary/vendor/lib/librcc.so:system/vendor/lib/librcc.so \
     vendor/haier/g151/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/haier/g151/proprietary/vendor/lib/lib-rcsimssjni.so:system/vendor/lib/lib-rcsimssjni.so \
     vendor/haier/g151/proprietary/vendor/lib/lib-rcsjni.so:system/vendor/lib/lib-rcsjni.so \
@@ -534,6 +536,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     ims \
+    imssettings \
     imscmlibrary \
     libloc_api_v02 \
     libloc_ds_api \
