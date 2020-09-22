@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/haier/g151/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/haier/g151/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/haier/g151/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/haier/g151/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/haier/g151/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/haier/g151/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/haier/g151/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
